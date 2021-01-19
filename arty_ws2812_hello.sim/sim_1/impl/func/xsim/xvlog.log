@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/Projects/arty_ws2812_hello/arty_ws2812_hello.sim/sim_1/impl/func/xsim/top_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-311] analyzing module ws2812
+INFO: [VRFC 10-311] analyzing module glbl
